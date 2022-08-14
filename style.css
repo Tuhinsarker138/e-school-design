@@ -1,0 +1,17 @@
+.container{
+    margin-bottom: 100px;
+
+}
+.text{
+    color: #FD511A;
+}
+.in-line{
+    color: #21B573;
+    font-weight: 700;
+}
+.orange-bg{
+    background-color:  #F0FFF0;
+    border-radius: 10px;
+    width: 1440px;
+    height: 510px;
+}
