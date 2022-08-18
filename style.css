@@ -2,9 +2,9 @@
     margin-bottom: 100px;
 
 }
-.text{
-    color: #FD511A;
-}
+ .t{ 
+     color: #FD511A; 
+ } 
 .in-line{
     color: #21B573;
     font-weight: 700;
@@ -27,4 +27,18 @@
 }
 #bg{
     background-color: #f0f5f0;
+}
+#cat1{
+    padding: 50px;
+}
+#p{
+   
+    text-align: center;
+    justify-content: center;
+}
+footer{
+    text-align: center;
+    width: bold;
+    color: rgb(202, 198, 198);
+    
 }
